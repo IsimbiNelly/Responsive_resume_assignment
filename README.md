@@ -6,6 +6,9 @@ Responsive_resume_assignment/
 │       └── profile.jpg     # Profile picture
 ├── index.html              # Main HTML file (semantic structure)
 └── README.md               # Project documentation
+
+
+
 ✨ Features
 ✅ Fully Responsive – Adapts seamlessly to desktops, tablets, and mobile phones
 ✅ Clean & Professional Design – Well-structured layout with a modern aesthetic
